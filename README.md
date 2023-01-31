@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Usagem
 
 Abra à pasta do progeto e digite
-### `npm install`
+### `npm install react-scripts --save`
 
 ### `npm start`
 
